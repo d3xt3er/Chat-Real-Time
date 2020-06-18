@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<b>Tecnologias :call_me_hand:</b>
+<b style="font-size:24px">Tecnologias :call_me_hand:</b>
 <hr>
 
 #### :white_check_mark: HTML - Front-End :desktop_computer: 
