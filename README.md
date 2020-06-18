@@ -13,5 +13,9 @@
 #### :white_check_mark: jQuery - Front and Back-End :desktop_computer:
 </p>
 
-<center> ![JavaScript](public/JavaScript_logo.jpg) </center>
+<p align="center">
+  <img width="460" height="300" src="public/JavaScript_logo.jpg">
+</p>
+
+![JavaScript](public/JavaScript_logo.jpg)
 
