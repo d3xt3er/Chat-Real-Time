@@ -1,12 +1,13 @@
 <p align="center">
   
-### Chat em tempo real By Rocketseatt :astronaut: - :computer: - :rocket:
+### Chat em tempo real By Rocketseat :astronaut: - :computer: - :rocket:
 
 </p>
 
 <p align="center">
 
-## <b>Tecnologias :call_me_hand:</b>
+<b>Tecnologias :call_me_hand:</b>
+<hr>
 
 #### :white_check_mark: HTML - Front-End :desktop_computer: 
 #### :white_check_mark: Node.js - Back-End :globe_with_meridians:
